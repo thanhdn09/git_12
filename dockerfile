@@ -11,6 +11,8 @@ RUN pip install flask
 #thuc hien lenh chay
 CMD ["python","./vd2.py"]
 
+#toi thay dooi o  day
+
 
 
 
