@@ -13,7 +13,7 @@ CMD ["python","./vd2.py"]
 
 #toi thay dooi o  day
 
-
+#rrrr
 
 
 
